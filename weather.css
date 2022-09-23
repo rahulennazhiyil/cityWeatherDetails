@@ -1,5 +1,5 @@
 body{
     background-image: url(./img/wallpaperbetter.jpg);
     background-size:cover;
-    background-position:no-repeat;
+    background-repeat: no-repeat;
 }
